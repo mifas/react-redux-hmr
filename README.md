@@ -16,6 +16,7 @@ This repo has already configured with redux with additional dependancies like `r
 
 ```
 git clone https://github.com/mifas/react-redux-hmr
+cd react-redux-hmr
 yarn install
 yarn start
 ```
